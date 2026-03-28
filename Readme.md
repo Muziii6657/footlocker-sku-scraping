@@ -33,9 +33,12 @@ pip install webdriver-manager
 
 proxy = "127.0.0.1:xxxx"填充为自己的代理端口  
 
-- 2.运行程序  当前目录终端下，python auto_scrapy.py
-- 运行后请将窗口最大化打开，避免因为找不到组件而导致爬取为0
+- 2.运行程序
 
+- 当前目录终端下，python auto_scrapy.py
+
+- 运行后请将窗口最大化打开，避免因为找不到组件而导致爬取为0
+---
 注：
 
 test 为测试用例，手动添加url进行爬取sku，检查爬虫功能是否实现
